@@ -4,14 +4,14 @@
 
 **Professional Email Signature Generator**
 
-<br />
-
-<img src="https://i.ibb.co/5XxYR7nL/Screenshot-2026-01-21-223719.png" alt="Desktop Preview" width="64%" />
-<img src="https://i.ibb.co/ZzG04cMK/koreagency-it-signature-i-Phone-14-Pro-Max.png" alt="Mobile Preview" width="30%" />
-
-<br />
-
 Create beautiful, responsive HTML email signatures in seconds. No coding required.
+
+<br />
+
+<br />
+
+<img src="https://i.ibb.co/5XxYR7nL/Screenshot-2026-01-21-223719.png" alt="Desktop Preview" width="64%" /> <br>
+<img src="https://i.ibb.co/ZzG04cMK/koreagency-it-signature-i-Phone-14-Pro-Max.png" alt="Mobile Preview" width="30%" />
 
 <br />
 
